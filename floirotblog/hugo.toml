@@ -2,3 +2,8 @@ baseURL = 'https://floirot.github.io/'
 languageCode = 'en-us'
 title = 'Floirot'
 theme = 'hugo-bearcub'
+
+copyright = "Florian Chmelar"
+defaultContentLanguage = "en"
+
+description = "Toto je taká moja stránka."
