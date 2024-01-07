@@ -1,8 +1,4 @@
-baseURL = 'https://floirot.github.io/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Floirot'
-theme = 'hugo-theme-monochrome'
-
-defaultContentLanguage = "en"
-
-description = "Site for something"
+title = 'Floirot blog'
+theme = 'lugo'

@@ -1,6 +1,4 @@
 ---
-title: "Home"
-menu: "main"
+title: "Floirot sklad"
 ---
-
-Toto je taký uvítací text.
+Nech sa páči a tak ďalej.
